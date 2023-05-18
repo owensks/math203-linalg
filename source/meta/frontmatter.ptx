@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <frontmatter xml:id="frontmatter" xmlns:xi="http://www.w3.org/2001/XInclude">
     <titlepage>
+    <!-- KATE CHANGED SOMETHING -->
+            <author>
+            <personname>Kate Owens</personname>
+            <department>Department of Mathematics</department>
+            <institution>College of Charleston</institution>
+            <email>owensks@cofc.edu</email>
+        </author>
         <author>
             <personname>Steven Clontz</personname>
             <department>Department of Mathematics and Statistics</department>
